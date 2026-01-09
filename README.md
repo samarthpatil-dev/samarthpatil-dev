@@ -25,6 +25,7 @@ Email Me 👉 ✉️ **samarthp2727@gmail.com** For Collaboration/Project or Any
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
@@ -37,10 +38,10 @@ Email Me 👉 ✉️ **samarthp2727@gmail.com** For Collaboration/Project or Any
 ## 🏆 Certifications
 Here are some of the certifications I have completed:
 
-- [Python Programming - Harvard University CS50](https://github.com/samarthpatil-dev/certificates#python-harvard-cs50)  
-- [Python for Data Science, AI & Development - IBM (Coursera)](https://github.com/samarthpatil-dev/certificates#python-ibm)  
-- [C++ Programming - Simple Learn](https://github.com/samarthpatil-dev/certificates#cplusplus-simplilearn)  
-- [Certificate Repository / Others](https://github.com/samarthpatil-dev/certificates#python-projects)  
+- [Python Programming - Harvard University CS50](https://github.com/samarthpatil-dev/Certifications/blob/main/CS50P%20(1).pdf)  
+- [Python for Data Science, AI & Development - IBM (Coursera)](https://github.com/samarthpatil-dev/Certifications/blob/main/IBMDesign20250224-26-m9o9yl.pdf)  
+- [C++ Programming - Simple Learn](https://github.com/samarthpatil-dev/Certifications/blob/main/CERTIFICATE_LANDING_PAGE~QSU2M2T4LTHS.jpeg)  
+- [Certificate Repository / Others](https://github.com/samarthpatil-dev/Certifications)  
 
 *(Click the links to view my certificates on GitHub repository)*
 
