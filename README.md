@@ -1,19 +1,19 @@
 # 💫 Hi 👋, I'm Samarth Patil
 **A Computer Science student with a strong interest in the Data field**
 
-Email Me 👉 ✉️ **samarthpatil2727@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **samarthp2727@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Improving my programming fundamentals and applying them to data-oriented problem solving.
 - 🌱 **I’m currently learning:** Python with a focus on Data Science, Machine Learning basics, and data-driven thinking.
 - 👯 **I’m looking to collaborate on:** Data-oriented projects, learning-based coding projects, and beginner-friendly data science projects.
 - 🤔 **I’m looking for help with:** Understanding real-world data workflows, project guidance, and career direction in data-related domains.
 - 💬 **Ask me about:** Programming concepts I’ve self-learned with proper conceptual clarity, logical problem solving, and practical coding approaches.
-- 📫 **How to reach me:** samarthpatil2727@gmail.com
+- 📫 **How to reach me:** samarthp2727@gmail.com
 - 😄 **Pronouns:** He / Him
 - ⚡ **Fun fact:** I prefer learning independently and practically, focusing on why and how rather than memorizing theory or relying fully on faculty or mobile learning.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samarthpatil3159) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samarthpatildev@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samarthpatil3159) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samarthpatil2727@gmail.com) 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
